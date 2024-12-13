@@ -1,0 +1,12 @@
+.blue{
+    color: rgb(10, 10, 124);
+}
+/* blue es para poner una clase, despues podes editar esa clase */
+h3{
+    color:rgb(178, 33, 33)
+}
+/*Es para poner todo de un color a un hx */
+
+body {
+    background-color: #b8c4dd; /* Aquí puedes usar el color que prefieras, en este caso blanco (#ffffff) */
+}
