@@ -1,4 +1,10 @@
 *.log
-__pycache__/
 node_modules/
 .vscode/
+Procfile.local
+VERSION
+BRANCH
+
+.rubocop-https*
+.env*
+/tmp/*
